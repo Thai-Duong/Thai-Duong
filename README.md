@@ -1,4 +1,4 @@
-![MasterHead](https://readvii.com/wp-content/uploads/2020/06/sach-thien-van-hoc-cover.png)
+![MasterHead](https://drive.google.com/file/d/1jOK-3gVOtNQ5ks1a9j5oL4sKD1Ipdnpx/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Duong Thai</h1>
 <img align="right" alt="coder" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
 💬 Ask me about **Front-End, React**
