@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Thai-Duong/Thai-Duong/blob/main/D%C6%B0%C6%A1ng%20Th%C3%A1i.png?h=200)
+![MasterHead](https://github.com/Thai-Duong/Thai-Duong/blob/main/D%C6%B0%C6%A1ng%20Th%C3%A1i.png)
 <h1 align="center">Hi 👋, I'm Duong Thai</h1>
 <img align="right" alt="coder" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
 
@@ -6,7 +6,7 @@
 
 📫 How to reach me **Thaiduong.080300@gmail.com**
 
-📫 How to reach me **0376637529**
+📫 Phone **0376637529**
 
 <h3 align="left">Connect with me:</h3>
 
