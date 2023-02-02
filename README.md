@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Thai-Duong/Thai-Duong/blob/main/D%C6%B0%C6%A1ng%20Th%C3%A1i.png)
+![MasterHead](https://github.com/Thai-Duong/Thai-Duong/blob/main/D%C6%B0%C6%A1ng%20Th%C3%A1i.png?h=200)
 <h1 align="center">Hi 👋, I'm Duong Thai</h1>
 <img align="right" alt="coder" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
 
